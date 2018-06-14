@@ -1,0 +1,12 @@
+.wrapper {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.search-area {
+    margin-bottom: 2rem;
+}
