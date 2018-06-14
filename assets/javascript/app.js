@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 //to print out number of articles based on option set by user by value 
 let articleAmt = $("#numberOfRecords option").val();
@@ -47,5 +46,3 @@ $('button').on('click', function () {
 //what we want from response from
 //we want article title(results[i].headline.main)
 //we want author(s)
-=======
->>>>>>> 5b97d6b9e133f0f4997287762238cb33ca2766ba
